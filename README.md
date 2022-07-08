@@ -24,7 +24,7 @@ height="40"/>&nbsp;
 <br><br>
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=radical&show_icons=true">
-        <img height="200" alt="Readme stats" src="https://github-readme-stats.vercel.app/api?username=saqibjavaiddev&theme=graywhite&show_icons=true&icon_color=a960ff" />
+        <img height="200" alt="Readme stats" src="https://github-readme-stats.vercel.app/api?username=ogagaoghene&theme=graywhite&show_icons=true&icon_color=a960ff" />
     </a>
     <a href="https://github.com/ogagaoghene-esi-7a478647/github-readme-stats">
         <img height="200" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibjavaiddev&theme=graywhite&layout=compact)" />
@@ -46,7 +46,7 @@ I’m always looking for new challenges and opportunities to collaborate! Get in
    <a href="https://www.linkedin.com/in/ogagaoghene-esi-7a478647">
         <img alt="Follow me" src="https://img.shields.io/badge/-LinkedIn-%23a960ff?style=for-the-badge&logo=linkedin">
     </a> 
- <a href="mailto:saqibjavaid082@gmail.com">
+ <a href="mailto:esi.ogagaoghene@yahoo.com">
         <img alt="Contact me" src="https://img.shields.io/badge/-contact%20me-%23a960ff?style=for-the-badge&logo=Mail.Ru">
     </a> 
    
