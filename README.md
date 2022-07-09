@@ -1,11 +1,8 @@
 ## About Me 👋
 <img align='right' src="https://i.pinimg.com/564x/af/f1/28/aff128795f3de001b4cef283e555eed4.jpg" width="140">
-
-***
-
 - :man: Full-Stack Developer
 - :man_technologist: My primary skills are Java, Python, JavaScript, HTML, CSS, C/C++, MySQL, Oracle, React, and Angular 
-- :purple_heart:I love the creative ability that programming gives me, just like Magic :sparkles:. 
+- :purple_heart:I love the creative ability that programming gives me 
 - :nerd_face: I embrace challenges because solving them is so much fun and fulfilling.
 - 🌱 I am also a lifelong learner with a passion for technology, books, food, and people.
 - 👀 Reach me at: esi.ogagaoghene@yahoo.com. Let's chat and code together :wink:...
