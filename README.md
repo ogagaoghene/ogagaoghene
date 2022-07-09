@@ -1,12 +1,14 @@
 ## About Me 👋
+<img align='right' src="https://i.pinimg.com/564x/af/f1/28/aff128795f3de001b4cef283e555eed4.jpg" width="140">
 
+***
 
-:man_technologist: I’m an IT Professional that loves anything IT. I am currently engaged with [Microverse](https://www.microverse.org/) fullstack software development bootcamp programme. 
-- 🔭 I’m currently working on JavaScript projects.
-- 👯 I’m looking to collaborate on web development projects.
-- 💬 Ask me about Software Development
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/ogagaoghene-esi-7a478647/) | [Twitter](@esi.ogaga)
-- ⚡ Fun fact:  My skillsets range from software development, system administration, network administration and cloud devops engineering on AWS.
+- :man: Full-Stack Developer
+- :man_technologist: My primary skills are Java, Python, JavaScript, HTML, CSS, C/C++, MySQL, Oracle, React, and Angular 
+- :purple_heart:I love the creative ability that programming gives me, just like Magic :sparkles:. 
+- :nerd_face: I embrace challenges because solving them is so much fun and fulfilling.
+- 🌱 I am also a lifelong learner with a passion for technology, books, food, and people.
+- 👀 Reach me at: esi.ogagaoghene@yahoo.com. Let's chat and code together :wink:...
         
 <br>
 
