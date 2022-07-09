@@ -1,11 +1,15 @@
-## About Me 👋
-<img align='right' src="https://i.pinimg.com/564x/af/f1/28/aff128795f3de001b4cef283e555eed4.jpg" width="140">
-- :man: Full-Stack Developer
-- :man_technologist: My primary skills are Java, Python, JavaScript, HTML, CSS, C/C++, MySQL, Oracle, React, and Angular 
-- :purple_heart:I love the creative ability that programming gives me 
-- :nerd_face: I embrace challenges because solving them is so much fun and fulfilling.
-- 🌱 I am also a lifelong learner with a passion for technology, books, food, and people.
-- 👀 Reach me at: esi.ogagaoghene@yahoo.com. Let's chat and code together :wink:...
+# Hi, I'm Esi Ogagaoghene 👋
+
+### I'm a FullStack developer interested in complex web development projects.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on some web development projects 
+- 🌱 I’m currently learning about the DevOps principles
+- 💬 Ask me about serverless, web app architecture and fullstack web development
+- 📫 How to reach me: [@esi.ogaga](https://twitter.com/@esi_ogaga) or [esi.ogagaoghene@yahoo.com](mailto:esi.ogagaoghene@yahoo.com)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love anything IT
         
 <br>
 
