@@ -10,9 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about serverless, web app architecture and fullstack web development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ogagaoghene-esi-7a478647) | [esi.ogagaoghene@yahoo.com](mailto:esi.ogagaoghene@yahoo.com)
 - ⚡ Fun fact: I love anything IT
-        
-<br>
-
+       
 <h3 align="left">Languages and Tools:</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
