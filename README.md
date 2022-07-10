@@ -46,7 +46,7 @@ These are some simple projects, please take a look at them:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ogagaoghene&repo=todo-list-structure&show_owner=true)](https://github.com/ogagaoghene/todo-list-structure)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ogagaoghene&repo=online-conference-website&show_owner=true)](https://github.com/ogagaoghene/online-conference-website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ogagaoghene&repo=myapp&show_owner=true)](https://github.com/ogagaoghene/myapp)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ogagaogehene&repo=awesome-books-es6&show_owner=true)](https://github.com/ogagaoghene/awesome-books-es6)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ogagaoghene&repo=awesome-books-es6&show_owner=true)]([https://github.com/ogagaoghene/myapp](https://github.com/ogagaoghene/awesome-books-es6))
 
 <hr>
 <br>
