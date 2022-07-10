@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on FullStack JavaScript Web development projects.
 - 🌱 I’m currently learning about the DevOps principles
 - 💬 Ask me about serverless, web app architecture and fullstack web development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saqibjavaiddev/) | [esi.ogagaoghene@yahoo.com](mailto:esi.ogagaoghene@yahoo.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ogagaoghene-esi-7a478647) | [esi.ogagaoghene@yahoo.com](mailto:esi.ogagaoghene@yahoo.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love anything IT
         
