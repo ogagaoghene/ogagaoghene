@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about the DevOps principles
 - 💬 Ask me about serverless, web app architecture and fullstack web development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ogagaoghene-esi-7a478647) | [esi.ogagaoghene@yahoo.com](mailto:esi.ogagaoghene@yahoo.com)
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love anything IT
         
 <br>
@@ -38,7 +37,6 @@ Here are some ideas to get you started:
 > *My "Most Used Languages" does not indicate my skill level, it's just a GitHub metric of which languages have the most code on my GitHub repositories.*
 <br>
 <hr>
-<br>
 
 ### Pinned Projects
 
