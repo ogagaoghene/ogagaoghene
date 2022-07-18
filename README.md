@@ -1,13 +1,11 @@
 # Hi, I'm Esi Ogagaoghene 👋
 
-### I'm a FullStack developer interested in complex web development projects.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on some web development projects 
+- 🔭 I am Esi Ogagaoghene, a passionate full-stack software developer from Nigeria
+- 🔭 I am a student of Microverse - an online software development training school where students learn to become world-class software developers
+- 🔭 I am an open-source enthusiast, and I love to collaborate and share knowledge through open-source
 - 👯 I’m looking to collaborate on FullStack JavaScript Web development projects.
-- 🌱 I’m currently learning about the DevOps principles
-- 💬 Ask me about serverless, web app architecture and fullstack web development
+- 🌱 I’m currently learning and implementing the DevOps principles on AWS
+- 💬 Ask me about serverless, web application architecture and fullstack web development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ogagaoghene-esi-7a478647) | [esi.ogagaoghene@yahoo.com](mailto:esi.ogagaoghene@yahoo.com)
 - ⚡ Fun fact: I love anything IT
        
