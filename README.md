@@ -1,33 +1,41 @@
-# Hi, I'm Esi Ogagaoghene👋
+# About Me 👋
 
-- 🔭 I'm a Full-stack Developer. I have experience with Java, Python,  JavaScript, Ruby, Rails, React, and Redux. I am Open to new opportunities!
+My name is Esi Ogagaoghene, a Fullstack Software Developer from Nigeria. I have experience with Java, Python,  JavaScript, Ruby, Rails, React, and Redux. I am Open to new opportunities!
+
+- 🌱 I’m currently learning at Microverse - an online software development training school
+- 👯 I’m looking to collaborate on complex web application projects
+- 💬 Ask me about Fullstack Software Development, Cloud DevOps, and any tech-related stuff
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ogagaoghene-esi-7a478647) | [esi.ogagaoghene@yahoo.com](mailto:esi.ogagaoghene@yahoo.com)
 - ⚡ Fun fact: I love anything IT
        
-<h3 align="left">Languages and Tools:</h3>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
- &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  
-</div>
-<br><br>
+#### Technologies & Tools
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+## 👨🏻‍💻 Laptop in use & Favorite Terminal
+<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
+
+## 📈 Activity Graph
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=radical&show_icons=true">
-        <img height="200" alt="Readme stats" src="https://github-readme-stats.vercel.app/api?username=ogagaoghene&theme=graywhite&show_icons=true&icon_color=a960ff" />
-    </a>
-    <a href="https://github.com/ogagaoghene-esi-7a478647/github-readme-stats">
-        <img height="200" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibjavaiddev&theme=graywhite&layout=compact)" />
-    </a>
+	<img src="https://activity-graph.herokuapp.com/graph?username=ogagaoghene&theme=minimal"/>
+</p>
+ 
+ ## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ogagaoghene&theme=vue"/>
 </p>
 
-> *My "Most Used Languages" does not indicate my skill level, it's just a GitHub metric of which languages have the most code on my GitHub repositories.*
-<br>
-<hr>
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ogagaoghene&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ogagaoghene&theme=vue" />
+</p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
 
 ### Contact me
 I’m always looking for new challenges and opportunities to collaborate! Get in touch with me:
@@ -40,7 +48,12 @@ I’m always looking for new challenges and opportunities to collaborate! Get in
  <a href="mailto:esi.ogagaoghene@yahoo.com">
         <img alt="Contact me" src="https://img.shields.io/badge/-contact%20me-%23a960ff?style=for-the-badge&logo=Mail.Ru">
     </a> 
-   
   
 </p>
 <br
+    
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
