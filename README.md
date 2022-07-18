@@ -1,4 +1,4 @@
-# Hi, I'm Esi Ogagaoghene 👋
+# About Me 👋
 
 - 🔭 I am Esi Ogagaoghene, a passionate full-stack software developer from Nigeria
 - 🔭 I am a student of Microverse - an online software development training school where students learn to become world-class software developers
