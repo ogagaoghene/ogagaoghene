@@ -1,6 +1,11 @@
 # About Me 👋
 
-My name is Esi Ogagaoghene, a Fullstack Software Developer from Nigeria. I have experience with Java, Python,  JavaScript, Ruby, Rails, React, and Redux. I am Open to new opportunities!
+![](https://img.shields.io/badge/Microverse-blueviolet)
+![Profile views](https://gpvc.arturio.dev/ogagaoghene) 
+
+### I am a Fullstack Software Developer
+
+My name is Esi Ogagaoghene, a Fullstack Software Developer from Nigeria. I have experience with Java, Python, C#, JavaScript, Ruby, Rails, React, and Redux. I am Open to new opportunities!
 
 - 🌱 I’m currently learning at Microverse - an online software development training school
 - 👯 I’m looking to collaborate on complex web application projects
