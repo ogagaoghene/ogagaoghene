@@ -10,7 +10,7 @@ I am Esi Ogagaoghene, a male, and I love coding! I am a ***Full-Stack Web Develo
 - 🌱 I’m currently learning at Microverse - an online software development training school
 - 🔭 You can find more of my completed projects on my [repo page](https://github.com/ogagaoghene?tab=repositories).
 - 👯 I’m looking to collaborate on complex web application projects
-- 💬 Ask me about Fullstack Software Development, Cloud DevOps, and any tech-related stuff
+- 💬 Ask me about Full-Stack Web Development, Cloud DevOps, and any tech-related stuff
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ogagaoghene-esi-7a478647) | [esi.ogagaoghene@yahoo.com](mailto:esi.ogagaoghene@yahoo.com)
 - ⚡ Fun fact: I love anything IT
        
