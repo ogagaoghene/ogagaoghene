@@ -24,11 +24,6 @@ I am Esi Ogagaoghene, a male, and I love coding! I am a ***Full-Stack Web Develo
 ## 👨🏻‍💻 Laptop in use & Terminal
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
 
-## 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=ogagaoghene&theme=minimal"/>
-</p>
- 
  ## 💳 Github Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ogagaoghene&theme=vue"/>
