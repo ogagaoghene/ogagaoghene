@@ -31,13 +31,11 @@ I am Esi Ogagaoghene, and I love coding! I am a ***Full-Stack Web Developer*** s
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ogagaoghene&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ogagaoghene&theme=vue" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ogagaoghene" />
 </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
-
 
 ### Contact me
 I’m always looking for new challenges and opportunities to collaborate! Get in touch with me:
