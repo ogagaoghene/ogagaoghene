@@ -7,7 +7,7 @@
 
 I am Esi Ogagaoghene, and I love coding! I am a ***Full-Stack Web Developer*** skilled in HTML, CSS3, JavaScript, Java, Python, JavaScript, Ruby, Rails, React & Redux, and Cloud DevOps. I am looking for exciting complex web development projects to contribute to. I hold a Master's degree in Computer Science, and I am comfortable working with any technology stack. I enjoy using my analytical and creative ability to solve complex problems, and I am passionate about entrepreneurship.  I am open to new opportunities! You can reach me via email at [esi.ogagaoghene@yahoo.com](mailto:esi.ogagaoghene@yahoo.com).
 
-- 🌱 I’m currently learning at Microverse - an online software development training school
+- 🌱 I've completed my Full-Stack Web development training at Microverse - an online software development training school
 - 🔭 You can find more of my completed projects on my [repo page](https://github.com/ogagaoghene?tab=repositories).
 - 👯 I’m looking to collaborate on complex web application projects
 - 💬 Ask me about Full-Stack Web Development, Cloud DevOps, and any tech-related stuff
