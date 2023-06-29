@@ -1,7 +1,6 @@
 # About Me 👋
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-![Profile views](https://gpvc.arturio.dev/ogagaoghene) 
 
 ### I am a Full-Stack Web Developer
 
