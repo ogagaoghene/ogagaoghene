@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-### Full-Stack Web Developer
+# Full-Stack Web Developer
 
 I am Esi Ogagaoghene, and I love coding! I'm a ***Full-Stack Web Developer*** skilled in HTML, CSS, Vanilla JavaScript, React & Redux, Vue.js, Angular.js, Java, Python, Ruby, Ruby on Rails, PostgreSQl, MySQL, Design Systems and Cloud DevOps. I'm looking for exciting complex web development projects to contribute to. I hold a Master's degree in Computer Scienc. I am comfortable working with any technology stack. I enjoy using my analytical and creative ability to solve complex problems, and I am passionate about entrepreneurship.  I am open to new opportunities! You can reach me via email at [esi.ogagaoghene@yahoo.com](mailto:esi.ogagaoghene@yahoo.com).
 
