@@ -4,7 +4,7 @@
 
 # Full-Stack Engineer
 
-I am Esi Ogagaoghene, and I love coding! I'm a ***Full-Stack Engineer*** skilled in HTML, CSS, TailWind CSS, Vanilla JavaScript, React, Vue.js, Angular.js, Java, Python, Ruby, Ruby on Rails, PostgreSQl, MySQL, Design Systems(Bootstrap, Ant Design System, Material Design system, Semantic UI) and Cloud DevOps. I'm looking for exciting complex web development projects to contribute to. I hold a Master's degree in Computer Scienc. I'm comfortable working with any technology stack. I enjoy using my analytical and creative ability to solve complex problems, and I'm passionate about entrepreneurship.  I am open to new opportunities! You can reach me via email at [esi.ogagaoghene@yahoo.com](mailto:esi.ogagaoghene@yahoo.com).
+I am Esi Ogagaoghene, and I love coding! I'm a ***Full-Stack Engineer*** skilled in HTML, CSS, TailWind CSS, Vanilla JavaScript, React, Vue.js, Angular.js, Java, Python, Ruby, Ruby on Rails, PostgreSQl, MySQL and Cloud DevOps. I'm looking for exciting complex web development projects to contribute to. I hold a Master's degree in Computer Science. I'm comfortable working with any technology stack. I enjoy using my analytical and creative ability to solve complex problems.  I am open to new opportunities! You can reach me via email at [esi.ogagaoghene@yahoo.com](mailto:esi.ogagaoghene@yahoo.com).
 
 - 🔭 You can find more of my completed projects on my [repo page](https://github.com/ogagaoghene?tab=repositories).
 - 👯 I’m looking to collaborate on complex web application projects
