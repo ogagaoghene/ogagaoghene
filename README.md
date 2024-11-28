@@ -4,7 +4,7 @@
 
 # Full-Stack Web Developer
 
-I am Esi Ogagaoghene, and I love coding! I'm a ***Full-Stack Developer*** skilled in HTML, CSS, JavaScript, React.js framework, Ruby, Ruby on Rails, database management systems, and AWS Cloud DevOps. I look forward to be part of a team of world-class developers building interesting large-scale web applications. I hold a Master's degree in Computer Science. I'm comfortable working with any technology stack. I enjoy using my analytical and creative ability to solve complex problems.  I am open to new opportunities! You can reach me via email at [esi.ogagaoghene@yahoo.com](mailto:esi.ogagaoghene@yahoo.com).
+I am Esi Ogagaoghene, and I love coding! I'm a ***Full-Stack Developer*** skilled in HTML, CSS, JavaScript, React.js framework, Ruby, Ruby on Rails, database management systems, and AWS Cloud DevOps. I look forward to building interesting large-scale web applications with a team of world class developers. I hold a Master's degree in Computer Science. I'm comfortable working with any technology stack. I enjoy using my analytical and creative ability to solve complex problems.  I am open to new opportunities! You can reach me via email at [esi.ogagaoghene@yahoo.com](mailto:esi.ogagaoghene@yahoo.com).
 
 - 🔭 You can find more of my completed projects on my [repo page](https://github.com/ogagaoghene?tab=repositories).
 - 👯 I’m looking to collaborate on complex web application development projects
