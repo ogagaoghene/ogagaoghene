@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Full-Stack Web Developer
+# Full-Stack Developer | DevOps Engineer
 
 I'm Esi Ogagaoghne, a Computer Scientist and Full-Stack Web Developer with a focus on web frameworks(such as Bootstrap, React.js, Node.js, Next.js, Rails), Programming languages(such as JavaScript, Java, and Python), Databases(such as Postgres, MySQL, Oracle), and AWS Cloud DevOps. I hold a Master's degree in Computer Science. I have over 5 years of experience in System Administration, Network Administration, software development, and associated technologies. I am open to exciting new opportunities. I can be reached via email at [esi.ogagaoghene@yahoo.com](mailto:esi.ogagaoghene@yahoo.com).
 
